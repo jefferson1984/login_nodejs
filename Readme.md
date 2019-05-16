@@ -1,0 +1,1 @@
+projeto de um login em nodejs com autenticação local, inicio de aprendizagem na linguagem. Foi utilizado o Mongodb Cloud como banco de dados.
